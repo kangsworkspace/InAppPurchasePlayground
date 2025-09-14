@@ -1,0 +1,292 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "A38BA9BD",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "2200",
+      "familyShareable" : false,
+      "internalID" : "6752311901",
+      "localizations" : [
+        {
+          "description" : "기본적인 자동차",
+          "displayName" : "자동차",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "nonconsumable.car",
+      "referenceName" : "Car",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1100",
+      "familyShareable" : false,
+      "internalID" : "6752312083",
+      "localizations" : [
+        {
+          "description" : "옥탄가 87인 휘발유입니다.",
+          "displayName" : "휘발유 87",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "consumable.fuel.octan87",
+      "referenceName" : "Fuel87",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "2200",
+      "familyShareable" : false,
+      "internalID" : "6752312181",
+      "localizations" : [
+        {
+          "description" : "옥탄가 89인 좋은 휘발유",
+          "displayName" : "휘발유 89",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "consumable.fuel.octan89",
+      "referenceName" : "Fuel89",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "3300",
+      "familyShareable" : false,
+      "internalID" : "6752312180",
+      "localizations" : [
+        {
+          "description" : "옥탄가 91인 제일 좋은 고급 휘발유",
+          "displayName" : "휘발유 91",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "consumable.fuel.octan91",
+      "referenceName" : "Fuel91",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1100",
+      "familyShareable" : false,
+      "internalID" : "6752271817",
+      "localizations" : [
+        {
+          "description" : "무난하게 타기 좋은 오토바이",
+          "displayName" : "오토바이",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "nonconsumable.motorcycle",
+      "referenceName" : "Motorcycle",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "11000",
+      "familyShareable" : false,
+      "internalID" : "6752312158",
+      "localizations" : [
+        {
+          "description" : "레이스카는 트랙에서만 타기",
+          "displayName" : "레이스카",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "nonconsumable.racecar",
+      "referenceName" : "RaceCar",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "5500",
+      "familyShareable" : false,
+      "internalID" : "6752311902",
+      "localizations" : [
+        {
+          "description" : "내가 제일 좋아하는 SUV",
+          "displayName" : "SUV",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "nonconsumable.utilityvehicle",
+      "referenceName" : "SUV",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "3300",
+      "familyShareable" : false,
+      "internalID" : "6752312110",
+      "localizations" : [
+        {
+          "description" : "짐을 많이 실을 수 있는 트럭",
+          "displayName" : "트럭",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "nonconsumable.truck",
+      "referenceName" : "Truck",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6752270650",
+    "_developerTeamID" : "XUZ4CWYRGJ",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 779154544.85003304,
+    "_locale" : "ko",
+    "_storefront" : "KOR",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21777449",
+      "localizations" : [
+
+      ],
+      "name" : "Software",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "5500",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6752312763",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "적당한 가격 적당히 좋은 성능",
+              "displayName" : "Premiun",
+              "locale" : "ko"
+            }
+          ],
+          "productID" : "subscription.premium",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Premium",
+          "subscriptionGroupID" : "21777449",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9900",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6752312442",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "전문가용 소프트웨어 아주 비싸다",
+              "displayName" : "Pro",
+              "locale" : "ko"
+            }
+          ],
+          "productID" : "subscription.pro",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pro",
+          "subscriptionGroupID" : "21777449",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "3300",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "6752312806",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "저렴한 가격 최소한의 성능",
+              "displayName" : "Standard",
+              "locale" : "ko"
+            }
+          ],
+          "productID" : "subscription.standard",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Standard",
+          "subscriptionGroupID" : "21777449",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
